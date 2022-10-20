@@ -4,7 +4,7 @@ id:
   org: a071eb9f-9edd-4384-a3c6-a235cd86caa9
   app: d425c1d1-ab34-45af-b4d4-91a8cb66de5b
   
- escanners:
+ scanners:
  - sast
  - dast
  - secret
